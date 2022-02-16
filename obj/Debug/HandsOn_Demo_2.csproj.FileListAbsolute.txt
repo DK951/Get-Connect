@@ -1,0 +1,7 @@
+C:\Users\Selvi\source\repos\HandsOn_Demo_2\HandsOn_Demo_2\bin\Debug\HandsOn_Demo_2.exe.config
+C:\Users\Selvi\source\repos\HandsOn_Demo_2\HandsOn_Demo_2\bin\Debug\HandsOn_Demo_2.exe
+C:\Users\Selvi\source\repos\HandsOn_Demo_2\HandsOn_Demo_2\bin\Debug\HandsOn_Demo_2.pdb
+C:\Users\Selvi\source\repos\HandsOn_Demo_2\HandsOn_Demo_2\obj\Debug\HandsOn_Demo_2.csproj.AssemblyReference.cache
+C:\Users\Selvi\source\repos\HandsOn_Demo_2\HandsOn_Demo_2\obj\Debug\HandsOn_Demo_2.csproj.CoreCompileInputs.cache
+C:\Users\Selvi\source\repos\HandsOn_Demo_2\HandsOn_Demo_2\obj\Debug\HandsOn_Demo_2.exe
+C:\Users\Selvi\source\repos\HandsOn_Demo_2\HandsOn_Demo_2\obj\Debug\HandsOn_Demo_2.pdb
